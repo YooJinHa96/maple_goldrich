@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍁 골드리치의 비밀금고 번호 추천 웹사이트
 
-## Getting Started
+AI 분석을 통해 메이플스토리 골드리치의 비밀금고 이벤트에서 당첨될 가능성이 높은 번호를 추천해주는 웹사이트입니다.
 
-First, run the development server:
+## 🖼️ 프로젝트 미리보기
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ 주요 기능
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🤖 **AI 추천**: Claude와 GPT를 활용한 지능적인 번호 추천
+- 📊 **실시간 통계**: 최근 당첨 결과와 인기 번호 분석
+- 🎯 **전략 선택**: 안전, 공격적, 균형 전략 중 선택
+- 📈 **데이터 관리**: 당첨 결과 데이터 수집 및 관리
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ 기술 스택
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Frontend**: Next.js 15, React 19, TypeScript
+- **Styling**: Tailwind CSS, shadcn/ui
+- **Database**: Supabase (PostgreSQL)
+- **AI Services**: Anthropic Claude, OpenAI GPT
+- **Validation**: Zod
+- **Forms**: React Hook Form
 
-## Learn More
+## 📝 라이선스
 
-To learn more about Next.js, take a look at the following resources:
+이 프로젝트는 MIT 라이선스 하에 배포됩니다.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ⚠️ 주의사항
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+이 서비스는 AI 분석을 통한 추천일 뿐이며, 당첨을 보장하지 않습니다.
+도박 중독 예방을 위해 적절한 금액으로 즐거운 마음으로 참여해주세요.
