@@ -3,6 +3,7 @@
 AI 분석을 통해 메이플스토리 골드리치의 비밀금고 이벤트에서 당첨될 가능성이 높은 번호를 추천해주는 웹사이트입니다.
 
 ## 🖼️ 프로젝트 미리보기
+<img width="1377" height="889" alt="sss" src="https://github.com/user-attachments/assets/7cbf5c1e-782b-4097-ab90-c78784210692" />
 
 ## ✨ 주요 기능
 
